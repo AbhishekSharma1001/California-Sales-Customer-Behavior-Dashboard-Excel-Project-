@@ -99,15 +99,15 @@ README.md – Project documentation
 🧠 Skills Demonstrated
 <br>
 
-1.Data Cleaning & Structuring
+1.Business-focused data analysis
 <br>
-2.Data Analysis using Pivot Tables
+2.Dashboard storytelling & design
 <br>
-3.Interactive Dashboard Creation
+3.Multi-dimensional data exploration
 <br>
-4.Business Insight Generation
+4.Insight generation for decision-making
 <br>
-5.Data Storytelling
+5.Interactive reporting using Excel
 <br>
 👨‍💻 Author
 <br>
