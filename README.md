@@ -66,7 +66,7 @@ To analyze customer behavior, sales trends, and operational performance by trans
 🖼️ Dashboard Preview
 
 <br>
-Includes KPI cards, monthly trends, regional analysis, and category breakdowns with interactive filters.
+Includes Visual representation of sales, customer patterns, and operational insights with interactive filters.
 <br>
 
 
@@ -75,12 +75,12 @@ Includes KPI cards, monthly trends, regional analysis, and category breakdowns w
 
 
 
-<img src="https://github.com/AbhishekSharma1001/Excel-Retail-Superstore-Interactive-Dashboard/blob/9df52e305ccf76192bd9d41bd6d9e5ca007cffe0/Dashboard.png" alt="Image Description" width="600">
+<img src="https://github.com/AbhishekSharma1001/California-Sales-Customer-Behavior-Dashboard-Excel-Project-/blob/3bd0a567f08a722b1afdaef83378798003c73f11/Screenshot%202026-05-01%20155659.png" alt="Image Description" width="600">
 <br>
 
 <br>
 
-<img src="https://github.com/AbhishekSharma1001/Excel-Retail-Superstore-Interactive-Dashboard/blob/9eb168804ba3b2a01a927bcef4a010e4c72f6479/Pivot%20Table.png" alt="Image Description" width="600">
+<img src="https://github.com/AbhishekSharma1001/California-Sales-Customer-Behavior-Dashboard-Excel-Project-/blob/3bd0a567f08a722b1afdaef83378798003c73f11/Screenshot%202026-05-01%20160834.png" alt="Image Description" width="600">
 
 
 
